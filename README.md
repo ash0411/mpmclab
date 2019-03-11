@@ -13,3 +13,7 @@ lab 8
 1. division using repeated substraction ( 8 bit and 16 bit).
 2. to check whether it is a leap year or not.
 3. to find the sum from 1 to 10.
+
+lab9
+1. to find the sum of digits of a given number
+2. to find the number of ones in a given number
