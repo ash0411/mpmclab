@@ -17,3 +17,9 @@ lab 8
 lab9
 1. to find the sum of digits of a given number
 2. to find the number of ones in a given number
+
+lab 11
+1.to reverse the contents of an array
+2. to compare 2 array
+3. to find the length of string
+
