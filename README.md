@@ -22,4 +22,7 @@ lab 11
 1.to reverse the contents of an array
 2. to compare 2 array
 3. to find the length of string
+lab 12
+1. to to reverse a string
+2. to copy a string from 1 mem location to another
 
